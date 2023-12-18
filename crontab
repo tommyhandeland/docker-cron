@@ -1,4 +1,2 @@
-1 * * * * curl https://app.tommyh.no/cron
-1 * * * * cd /public && php artisan schedule:run
 1 * * * * php artisan schedule:run
 # An empty line is required at the end of this file for a valid cron file.

@@ -1,2 +1,2 @@
-1 * * * * cd /var/run/workspace && php artisan schedule:run
+1 * * * * cd /var/www/factumapi/workspace && php artisan schedule:run
 # An empty line is required at the end of this file for a valid cron file.
